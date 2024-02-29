@@ -1,0 +1,5 @@
+{ displayData(a) } 
+
+{ displayData(“a”) } 
+
+{ displayData(a); displayData(bb); displayData(“c”) }
